@@ -1,0 +1,8 @@
+{
+  "name": "curso-nodemon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ijair/curso-nodemon.git",
+  "author": "Irving Sanchez <irving.jairso@mediamechanics.com>",
+  "license": "MIT"
+}
